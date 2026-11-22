@@ -12,4 +12,6 @@ SC-NC-CORE — repository foundation
 
 SC-NC Core is being built as the root of the SC-NeuroCore split: the shared data model that every other SC-NC repository imports. It defines how neuron populations, connectivity graphs, model state, events, random seeds and numeric formats are represented and checked, and the protocol by which a computational backend is dispatched, and it imports no other SC-NC repository. Its current executable surface is repository validation tooling. It has no installed data-model package, backend dispatcher, numeric-format checker or qualified record schema.
 
+SC-NC Core is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 Read [Architecture](ARCHITECTURE.md), [validation tooling](validation-tooling.md), [data boundaries](THREAT_MODEL.md) and the [repository boundary decision](adr/0001-repository-boundary.md).
