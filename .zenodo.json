@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for the shared neuromorphic data model, as one repository of the SC-NeuroCore split. No data-model package, backend dispatcher, numeric-format checker, moved SC-NeuroCore code or registered record format is released.",
+  "keywords": [
+    "neuromorphic data model",
+    "fixed-point numerics",
+    "spiking neural networks",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "SC-NC Core",
+  "upload_type": "software"
+}
